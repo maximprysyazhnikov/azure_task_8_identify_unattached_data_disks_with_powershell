@@ -1,0 +1,9 @@
+{
+  "Name": "mate5vm-dst-datadisk1",
+  "ResourceGroupName": "MATE-AZURE-TASK-5-DST-NORTHEUROPE",
+  "Location": "northeurope",
+  "DiskSizeGB": 4,
+  "DiskState": "Unattached",
+  "ManagedBy": null,
+  "Id": "/subscriptions/5c407bd9-5133-468b-8975-199ecc56efcd/resourceGroups/MATE-AZURE-TASK-5-DST-NORTHEUROPE/providers/Microsoft.Compute/disks/mate5vm-dst-datadisk1"
+}
